@@ -3,7 +3,7 @@ A simple web app for event attendees to RSVP to an invite, update their informat
 
 With this app, the event host and owner of the app can submit a list of attendees with minimal details. After editing a few settings and creating the attendee list, this information gets inputted into the event's website and the event host is able to share this website with their potential attendees via invites (physical or digital). The potential attendees can then RSVP to their invite via the website. This will allow the host to collect pertenant information regarding who plans on attending their event.
 
-##Plan of Action:
+###Plan of Action:
 * [ ] Organize site map
 * [ ] Research bootstrap 4-alpha as HTML/CSS frameworks
 * [ ] Map out functionality of rsvp app
